@@ -1,0 +1,23 @@
+# Зависимости фронтенда
+node_modules/
+frontend/node_modules/
+
+# Виртуальные окружения Python
+venv/
+backend/venv/
+.venv/
+
+# Секретные данные
+.env
+backend/.env
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Бэкапы и мусор
+*.bak
+*.backup
+*.json
+.DS_Store
+.vscode/

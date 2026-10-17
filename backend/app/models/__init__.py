@@ -1,0 +1,1 @@
+from .all_models import User, University, Disorder, Patient, Session
