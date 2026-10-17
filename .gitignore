@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Зависимости фронтенда
 node_modules/
 frontend/node_modules/
@@ -20,4 +21,12 @@ __pycache__/
 *.backup
 *.json
 .DS_Store
+=======
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+*.sqlite3
+>>>>>>> da03f195afa56f50d46945afdf34f5a987035d1d
 .vscode/
